@@ -3,6 +3,6 @@
 
 
 - 🙌 Hi, I m Yokesh 
-- 📈 I am currently learning PowerBI,SQL,Python,Excel
+- 📈 My Current Endeavor is to learn PowerBI, SQL, Python, and Excel.
 - 📧 How to reach me yokesh1894@outlook.com
   
